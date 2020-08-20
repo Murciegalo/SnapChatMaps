@@ -1,1 +1,3 @@
-"# SnapChatMaps"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Murciegalo/SnapChatMaps.gitgit push -u origin master                
+"# SnapChatMaps"  
+
+Application to allow users interacts through images based on their current location 
