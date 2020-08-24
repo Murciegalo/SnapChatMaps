@@ -40,5 +40,5 @@
       }
     }
   },
-  "mongodb": "mongodb://root:example@localhost:27017/snap_maps"
+  "mongodb": "mongodb://localhost:27017/snap_maps"
 }
