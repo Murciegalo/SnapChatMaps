@@ -26,7 +26,19 @@
     "local": {
       "usernameField": "email",
       "passwordField": "password"
+    },
+    "ouauth": {
+      "redirect": "/",
+      "google": {
+        "key": "<google ouauth key>",
+        "secret": "<google secret>",
+        "scope": [
+          "email",
+          "profile",
+          "openid"
+        ]
+      }
     }
   },
-  "mongodb": "mongodb://localhost:27017/snap_maps"
+  "mongodb": "mongodb://root:example@localhost:27017/snap_maps"
 }
