@@ -30,8 +30,8 @@
     "ouauth": {
       "redirect": "/",
       "google": {
-        "key": "<google ouauth key>",
-        "secret": "<google secret>",
+        "key": "GOOGLE_OAUTH_KEY",
+        "secret": "GOOGLE_OAUTH_SECRET",
         "scope": [
           "email",
           "profile",
